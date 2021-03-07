@@ -1,0 +1,4 @@
+QNA		|	Quarterly National Accounts
+PAT_IND		|	Patent indicators
+MEI_CLI		|	Composite Leading Indicators
+MEI_BOP		|	Balance of Payments BPM5

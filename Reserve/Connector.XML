@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfLocationInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocationInfo xsi:type="FileLocationInfo" PathName="C:\Users\">
+    <DatabaseInfos>
+      <DatabaseInfo xsi:type="FileDatabaseInfo" FileName="OECD.MDB">
+        <TableInfos>
+          <TableInfo Name="OECDData" Alias="OECD" SeriesFieldType="Version1" HostFieldType="Client" PrimaryFieldName="SeriesName" IsReadOnly="false">
+            <ColumnInfos />
+          </TableInfo>
+        </TableInfos>
+      </DatabaseInfo>
+    </DatabaseInfos>
+  </LocationInfo>
+</ArrayOfLocationInfo>
